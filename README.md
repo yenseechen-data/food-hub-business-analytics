@@ -50,6 +50,16 @@ Business Analysis
 •⁠  ⁠Customer satisfaction assessment
 
 ⸻
+## Key Visualizations
+
+### Top Cuisine Types
+
+![Top Cuisine Types](top_cuisine.png)
+
+### Delivery Time Distribution
+
+![Delivery Time](delivery_time.png)
+
 
 Key Findings
 
