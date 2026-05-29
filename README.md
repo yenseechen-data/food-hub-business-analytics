@@ -54,7 +54,7 @@ Business Analysis
 
 ### Top Cuisine Types
 
-![Top Cuisine Types](top_cuisine.png)
+![Top Cuisine Types](top_cuisines.png)
 
 ### Delivery Time Distribution
 
