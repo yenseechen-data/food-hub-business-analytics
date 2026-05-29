@@ -1,3 +1,4 @@
+<img width="989" height="590" alt="top_cusines" src="https://github.com/user-attachments/assets/fa3d7a46-52f8-46d7-84bd-232adf9f2e12" />
 FoodHub Business Analytics Project
 
 Project Overview
